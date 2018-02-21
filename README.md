@@ -1,4 +1,4 @@
-# PPROG-2017-2018
+# PPROG-2017-2018.
 
 Repositório com os exercícios das PL´s de Paradigma de Programação.
 
